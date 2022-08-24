@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OOP Sandbox for Chanel Naomi Olier Watson
 
 ## This is a subtitle
@@ -22,3 +23,8 @@ import pands as pd
 ```
 
 I am adding a line.git 
+=======
+# oop_sandbox_olier
+
+this is a new line
+>>>>>>> a9572276790e84b60b21edd8e0fbcdbd1258ea4b
