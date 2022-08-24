@@ -28,3 +28,4 @@ I am adding a line.git
 
 this is a new line
 >>>>>>> a9572276790e84b60b21edd8e0fbcdbd1258ea4b
+new modification
